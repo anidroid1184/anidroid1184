@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Soy Juan Sebastian Valencia Londoño, programador junior enfocado en el desarrollo backend. Estudio ingeniería electrónica y me apasiona el desarrollo web, estoy aprendiendo constantemente y aprendo centralmente el desarrollo de aplicaciones y sitioes web con el uso de lenguajes como Python y Go.
+
 <!--
 **anidroid1184/anidroid1184** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
