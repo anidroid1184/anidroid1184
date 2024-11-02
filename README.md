@@ -6,7 +6,6 @@ Soy estudiante de **6to semestre de Ingeniería Electrónica** con una pasión e
 
 - **Lenguajes de Programación**: 
   - Python
-  - Go
 - **Desarrollo Web**: 
   - Backend
   - APIs RESTful
@@ -14,10 +13,8 @@ Soy estudiante de **6to semestre de Ingeniería Electrónica** con una pasión e
   - Integración de dispositivos
   - Protocolos de comunicación
 - **Herramientas y Tecnologías**: 
-  - Git 
-  - Docker 
-  - PostgreSQL 
-  - MATLAB
+  - Git
+  - Django
 
 ## 🌱 Proyectos Destacados
 
@@ -33,6 +30,12 @@ Soy estudiante de **6to semestre de Ingeniería Electrónica** con una pasión e
 
 ### [Netlify - Proyecto en Línea](https://app.netlify.com/teams/anidroid1184/overview)
 - **Descripción**: Proyecto desplegado en Netlify que muestra las habilidades adquiridas en desarrollo web.
+
+## 📚 Aprendiendo Actualmente
+- **Go**: Profundizando en el desarrollo web backend con Go.
+- **Kali-linux**: Aprendo a usar linux para ser un mejor desarrollador.
+- **Machine Learning**: Explorando fundamentos y aplicaciones de machine learning.
+
 
 ## 📫 ¿Cómo contactarme?
 
