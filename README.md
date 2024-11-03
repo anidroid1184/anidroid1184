@@ -22,8 +22,8 @@ Soy estudiante de **6to semestre de Ingeniería Electrónica** con una pasión e
 - **Descripción**: Un sistema de asistencia desarrollado en Python que permite registrar y gestionar la asistencia de los usuarios de manera eficiente. Incluye funcionalidades para el registro, autenticación y análisis de datos.
 - **Tecnologías Usadas**: Python, Django, PostgreSQL
 
-### [Proyectos Diarios](https://github.com/anidroid1184/dialy_projects)
-- **Descripción**: Una serie de proyectos rápidos en los cuales pruebo e implemento diferentes tecnologías, generalmente realizados en Python. Destacan el ***QR Generator***, ***Generador de Paletas de Colores*** y ***API con FastAPI***. Soy constante en esto.
+### [Identificador de paleta de colores](https://github.com/anidroid1184/Color-Palette-Identifier)
+- **Descripción**: Es un script que usando machine learnign permite identificar la paleta de colores de una imagen.
 
 ### [Credly - Certificado de Logros](https://www.credly.com/earner/earned)
 - **Descripción**: Certificados de logros obtenidos en diversas competencias y cursos.
