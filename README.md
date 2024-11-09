@@ -37,8 +37,7 @@ Soy estudiante de **6to semestre de Ingeniería Electrónica** con una pasión e
 - **Machine Learning**: Explorando fundamentos y aplicaciones de machine learning.
 
 ## 🎖️ Certificaciones y medallas 
-- **Python**
-- [https://www.hackerrank.com/certificates/d18b90a49c35]
+- **Python** : [https://www.hackerrank.com/certificates/d18b90a49c35]
 
 ## 📫 ¿Cómo contactarme?
 
