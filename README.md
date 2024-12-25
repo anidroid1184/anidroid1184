@@ -6,6 +6,7 @@ Soy estudiante de **6to semestre de Ingeniería Electrónica** con una pasión e
 
 - **Lenguajes de Programación**: 
   - Python
+  - Golang
 - **Desarrollo Web**: 
   - Backend
   - APIs RESTful
@@ -18,11 +19,15 @@ Soy estudiante de **6to semestre de Ingeniería Electrónica** con una pasión e
 
 ## 🌱 Proyectos Destacados
 
-### [Sistema de Asistencia](https://github.com/anidroid1184/attendance-system) 
+### [Sistema de Asistencia - PYTHON](https://github.com/anidroid1184/attendance-system) 
+- **Descripción**: Un sistema de asistencia desarrollado en Python que permite registrar y gestionar la asistencia de los usuarios de manera eficiente. Incluye funcionalidades para el registro, autenticación y análisis de datos.
+- **Tecnologías Usadas**: Python, Django, PostgreSQL
+- 
+### [Gestion de Usuarios - GOLANG](https://github.com/anidroid1184/Golang-Proyecto-Gestion-Usuarios) 
 - **Descripción**: Un sistema de asistencia desarrollado en Python que permite registrar y gestionar la asistencia de los usuarios de manera eficiente. Incluye funcionalidades para el registro, autenticación y análisis de datos.
 - **Tecnologías Usadas**: Python, Django, PostgreSQL
 
-### [Identificador de paleta de colores](https://github.com/anidroid1184/Color-Palette-Identifier)
+### [Identificador de paleta de colores - PYTHON](https://github.com/anidroid1184/Color-Palette-Identifier)
 - **Descripción**: Es un script que usando machine learnign permite identificar la paleta de colores de una imagen.
 
 ### [Credly - Certificado de Logros](https://www.credly.com/earner/earned)
@@ -37,7 +42,11 @@ Soy estudiante de **6to semestre de Ingeniería Electrónica** con una pasión e
 - **Machine Learning**: Explorando fundamentos y aplicaciones de machine learning.
 
 ## 🎖️ Certificaciones y medallas 
-- **Python** : [Python Basic](https://www.hackerrank.com/certificates/d18b90a49c35])
+- **Python** : [Python Basic - Hackerrank](https://www.hackerrank.com/certificates/d18b90a49c35])
+- **Python** : [Programming in Python - Coursera](https://coursera.org/share/cb511889ab04eea636be178a3769fe74)
+- **Golang** : [Curso Profesion de Golang - Código Facilito](https://codigofacilito.com/certificates/bd1edb07-380a-4665-980b-cb17d08fdd78)
+- **Golang** : [Golang Basic - Hackerrank](https://www.hackerrank.com/certificates/48a278a53848)
+- **** : [Introduction to Software Engineering - Coursera](https://coursera.org/share/a924b7b4ce7b8bc85fc08af056a8486c)
 
 ## 📫 ¿Cómo contactarme?
 
