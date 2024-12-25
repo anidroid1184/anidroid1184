@@ -37,6 +37,7 @@ Soy estudiante de **6to semestre de Ingeniería Electrónica** con una pasión e
 - **Descripción**: Proyecto desplegado en Netlify que muestra las habilidades adquiridas en desarrollo web.
 
 ## 📚 Aprendiendo Actualmente
+- **Python**: Profundizando en el desarrollo web backend con Python.
 - **Go**: Profundizando en el desarrollo web backend con Go.
 - **Kali-linux**: Aprendo a usar linux para ser un mejor desarrollador.
 - **Machine Learning**: Explorando fundamentos y aplicaciones de machine learning.
@@ -46,7 +47,7 @@ Soy estudiante de **6to semestre de Ingeniería Electrónica** con una pasión e
 - **Python** : [Programming in Python - Coursera](https://coursera.org/share/cb511889ab04eea636be178a3769fe74)
 - **Golang** : [Curso Profesion de Golang - Código Facilito](https://codigofacilito.com/certificates/bd1edb07-380a-4665-980b-cb17d08fdd78)
 - **Golang** : [Golang Basic - Hackerrank](https://www.hackerrank.com/certificates/48a278a53848)
-- **** : [Introduction to Software Engineering - Coursera](https://coursera.org/share/a924b7b4ce7b8bc85fc08af056a8486c)
+- **Software Engineering** : [Introduction to Software Engineering - Coursera](https://coursera.org/share/a924b7b4ce7b8bc85fc08af056a8486c)
 
 ## 📫 ¿Cómo contactarme?
 
