@@ -22,7 +22,7 @@ Soy estudiante de **6to semestre de Ingeniería Electrónica** con una pasión e
 ### [Sistema de Asistencia - PYTHON](https://github.com/anidroid1184/attendance-system) 
 - **Descripción**: Un sistema de asistencia desarrollado en Python que permite registrar y gestionar la asistencia de los usuarios de manera eficiente. Incluye funcionalidades para el registro, autenticación y análisis de datos.
 - **Tecnologías Usadas**: Python, Django, PostgreSQL
-- 
+ 
 ### [Gestion de Usuarios - GOLANG](https://github.com/anidroid1184/Golang-Proyecto-Gestion-Usuarios) 
 - **Descripción**: Un sistema de asistencia desarrollado en Python que permite registrar y gestionar la asistencia de los usuarios de manera eficiente. Incluye funcionalidades para el registro, autenticación y análisis de datos.
 - **Tecnologías Usadas**: Golang
