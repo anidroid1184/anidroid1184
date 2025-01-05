@@ -39,7 +39,6 @@ Soy estudiante de **6to semestre de Ingeniería Electrónica** con una pasión e
 ## 📚 Aprendiendo Actualmente
 - **Python**: Profundizando en el desarrollo web backend con Python.
 - **Go**: Profundizando en el desarrollo web backend con Go.
-- **Kali-linux**: Aprendo a usar linux para ser un mejor desarrollador.
 - **Machine Learning**: Explorando fundamentos y aplicaciones de machine learning.
 
 ## 🎖️ Certificaciones y medallas 
