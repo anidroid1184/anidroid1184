@@ -27,8 +27,13 @@ Soy estudiante de **6to semestre de Ingeniería Electrónica** con una pasión e
 - **Descripción**: Un sistema de asistencia desarrollado en Python que permite registrar y gestionar la asistencia de los usuarios de manera eficiente. Incluye funcionalidades para el registro, autenticación y análisis de datos.
 - **Tecnologías Usadas**: Golang
 
+  ### [Todo List - PYTHON, REACT](https://github.com/anidroid1184/to-do-list-python)
+- **Descripción**: Es un proyecto en el cual con diferentes tecnologías cree un proyecto con APIs y servicio backend para gestionar una lista de tareas.
+- **Tecnologías Usadas**: Backend: Python 3.10, Flask, Flask-CORS, SQLite. Frontend: React 18, Axios, CSS Modules
+
 ### [Identificador de paleta de colores - PYTHON](https://github.com/anidroid1184/Color-Palette-Identifier)
 - **Descripción**: Es un script que usando machine learnign permite identificar la paleta de colores de una imagen.
+- **Tecnologías Usadas**: Python, Matplotlib
 
 ### [Credly - Certificado de Logros](https://www.credly.com/earner/earned)
 - **Descripción**: Certificados de logros obtenidos en diversas competencias y cursos.
