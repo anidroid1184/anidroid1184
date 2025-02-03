@@ -33,9 +33,7 @@ Soy estudiante de **6to semestre de Ingeniería Electrónica** con una pasión e
 
 ### [Ecommerce Service - GO, REACT](https://github.com/anidroid1184/Ecommerce-service).
 - **Descripción**: Un servicio de ecommerce que permite agregar y quitar productos, utiliza un backend en golang y un frontend en react.
-- **Tecnologías Usadas**:
-- Backend: Go (Gin + SQLite/GORM).
-- Frontend: React (Vite + TailwindCSS).
+- **Tecnologías Usadas**:  Backend: Go (Gin + SQLite/GORM). Frontend: React (Vite + TailwindCSS).
 
 ### [Identificador de paleta de colores - PYTHON](https://github.com/anidroid1184/Color-Palette-Identifier)
 - **Descripción**: Es un script que usando machine learnign permite identificar la paleta de colores de una imagen.
