@@ -2,6 +2,19 @@
 
 Soy estudiante de **6to semestre de Ingeniería Electrónica** con una pasión especial por el **desarrollo web backend** e **IoT**. Tengo experiencia en **desarrollo en Python** y actualmente estoy ampliando mis habilidades aprendiendo **Go**. Además, he trabajado con **Arduino** y **ESP32**, así como en **MATLAB**.
 
+A continuación, te muestro algunas de las herramientas y lenguajes que utilizo:
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
+[![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://golang.org/)
+[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/es/docs/Web/JavaScript)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/es/docs/Web/CSS)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/es/docs/Web/HTML)
+[![MATLAB](https://img.shields.io/badge/MATLAB-FFCC00?style=for-the-badge&logo=matlab&logoColor=black)](https://www.mathworks.com/products/matlab.html)
+[![MicroPython](https://img.shields.io/badge/MicroPython-3E7CBA?style=for-the-badge&logoColor=white)](https://micropython.org/)
+[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://isocpp.org/)
+
+
 ## 🛠 Habilidades
 
 - **Lenguajes de Programación**: 
@@ -100,7 +113,6 @@ Soy estudiante de **6to semestre de Ingeniería Electrónica** con una pasión e
 ## 📊 Estadísticas de GitHub
 
 ![anidroid1184's Stats](https://github-readme-stats.vercel.app/api?username=anidroid1184&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
-![anidroid1184's Streak](https://github-readme-streak-stats.herokuapp.com/?user=anidroid1184&theme=tokyonight&hide_border=true)
 ![anidroid1184's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anidroid1184&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
 ## 🌐 Mis Redes Sociales
