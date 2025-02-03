@@ -3,6 +3,8 @@
 Soy estudiante de **6to semestre de Ingeniería Electrónica** con una pasión especial por el **desarrollo web backend** e **IoT**. Tengo experiencia en **desarrollo en Python** y actualmente estoy ampliando mis habilidades aprendiendo **Go**. Además, he trabajado con **Arduino** y **ESP32**, así como en **MATLAB**.
 
 A continuación, te muestro algunas de las herramientas y lenguajes que utilizo:
+
+
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
 [![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://golang.org/)
