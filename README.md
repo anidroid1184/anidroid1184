@@ -15,6 +15,21 @@ A continuación, te muestro algunas de las herramientas y lenguajes que utilizo:
 [![MATLAB](https://img.shields.io/badge/MATLAB-FFCC00?style=for-the-badge&logo=matlab&logoColor=black)](https://www.mathworks.com/products/matlab.html)
 [![MicroPython](https://img.shields.io/badge/MicroPython-3E7CBA?style=for-the-badge&logoColor=white)](https://micropython.org/)
 [![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://isocpp.org/)
+[![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)](https://www.arduino.cc/)
+[![ESP32](https://img.shields.io/badge/ESP32-00A0E3?style=for-the-badge&logo=esp32&logoColor=white)](https://www.espressif.com/en/products/socs/esp32)
+[![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
+[![Gin](https://img.shields.io/badge/Gin-7FD62B?style=for-the-badge&logo=gin&logoColor=white)](https://gin-gonic.com/)
+[![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+[![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
+[![Terraform](https://img.shields.io/badge/Terraform-5C4EE8?style=for-the-badge&logo=terraform&logoColor=white)](https://www.terraform.io/)
+[![Machine Learning](https://img.shields.io/badge/Machine_Learning-000000?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
+[![Hackerrank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/)
+[![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white)](https://www.coursera.org/)
+[![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://www.netlify.com/)
+
 
 
 ## 🛠 Habilidades
