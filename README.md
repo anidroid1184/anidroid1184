@@ -86,6 +86,13 @@ Desarrollé un sistema de control automático de temperatura utilizando un algor
 - **Electrónica de potencia** (Triac BTA16 + MOC3041)  
 - **uasyncio** (Multitarea asíncrona)  
 ---
+
+## [🌡🤖 Proyectos viarios arduino](https://github.com/anidroid1184/proyectos-arduino)
+**Descripción**:  
+En este repositorio subo varios proyectos los cuales he desarrollado, entre ellos controles con potenciometro, control de brazo robot, etc...
+**Tecnologías**:  
+-**Aruino** 
+---
 ## 🌱 Proyectos Destacados - Desarrollo web
 ---
 ### [🚪 Sistema de Asistencia - PYTHON](https://github.com/anidroid1184/attendance-system)  
