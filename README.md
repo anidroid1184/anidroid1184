@@ -61,8 +61,10 @@ Desarrollé un vehículo robótico controlado por Bluetooth mediante Arduino. El
 - Simulación del circuito y funcionamiento del motor DC en **Tinkercad**.  
 - Implementación física con componentes electrónicos (motor, módulo Bluetooth, placa Arduino).  
 - Programación de lógica de control y comunicación inalámbrica.  
-- [Simulación en Tinkercad - ejemplo movimiento de motor DC](https://www.tinkercad.com/things/c5Q1B032xxT-movimiento-de-motor).  
-- [Simulación en Tinkercad - ejemplo movimiento de servo Motor](https://www.tinkercad.com/things/0y9w9Dw19Jk-tarea)
+- [Simulación en Tinkercad - ejemplo movimiento de motor DC](https://www.tinkercad.com/things/c5Q1B032xxT-movimiento-de-motor?sharecode=kDENReuVnlSH04fxo3v5DyVlPOuq4NdQt5SrpCWaUC8).  
+- [Simulación en Tinkercad - ejemplo movimiento de servo Motor](https://www.tinkercad.com/things/0y9w9Dw19Jk-tarea?sharecode=Nl0uP18N2c1fUmUOrGAGU9dj4rWMLSmgDxTkIHymlR4).
+
+  
 **Tecnologías**:  
 - **Arduino** (C++)  
 - **Bluetooth** (HC-05)  
