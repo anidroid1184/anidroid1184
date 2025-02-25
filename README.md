@@ -1,6 +1,6 @@
 # 👋 Hola, soy **Juan Sebastián Valencia Londoño**
 
-Soy estudiante de **6to semestre de Ingeniería Electrónica** con una pasión especial por el **desarrollo web backend** e **IoT**. Tengo experiencia en **desarrollo en Python** y actualmente estoy ampliando mis habilidades aprendiendo **Go**. Además, he trabajado con **Arduino** y **ESP32**, así como en **MATLAB**.
+Soy estudiante de **6mo semestre de Ingeniería Electrónica** con una pasión especial por el **desarrollo web backend** e **IoT**. Tengo experiencia en **desarrollo en Python** y actualmente estoy ampliando mis habilidades aprendiendo **Go**. Además, he trabajado con **Arduino** y **ESP32**, así como en **MATLAB**.
 
 A continuación, te muestro algunas de las herramientas y lenguajes que utilizo:
 
@@ -37,17 +37,42 @@ A continuación, te muestro algunas de las herramientas y lenguajes que utilizo:
 - **Lenguajes de Programación**: 
   - Python
   - Golang
+  - C++
+  - JavaScript
+  - HMTL5
+  - CSS3
 - **Desarrollo Web**: 
   - Backend
   - APIs RESTful
 - **IoT**: 
   - Integración de dispositivos
   - Protocolos de comunicación
+  - Arduino
+  - ESP32
 - **Herramientas y Tecnologías**: 
   - Git
   - Django
 
-## 🌱 Proyectos Destacados
+## 🤖 Proyectos Iot 
+
+## [🚗 Vehículo Controlado por Bluetooth]()
+**Descripción**:  
+Desarrollé un vehículo robótico controlado por Bluetooth mediante Arduino. El proyecto incluyó:  
+- Simulación del circuito y funcionamiento del motor DC en **Tinkercad**.  
+- Implementación física con componentes electrónicos (motor, módulo Bluetooth, placa Arduino).  
+- Programación de lógica de control y comunicación inalámbrica.  
+- [Simulación en Tinkercad ](https://github.com/tu-usuario/nombre-repositorio).  
+
+**Tecnologías**:  
+- **Arduino** (C++)  
+- **Bluetooth** (HC-05)  
+- **Tinkercad** (Simulación)  
+- **Electrónica embebida**  
+
+
+
+
+## 🌱 Proyectos Destacados - Desarrollo web
 
 ### [Sistema de Asistencia - PYTHON](https://github.com/anidroid1184/attendance-system) 
 - **Descripción**: Un sistema de asistencia desarrollado en Python que permite registrar y gestionar la asistencia de los usuarios de manera eficiente. Incluye funcionalidades para el registro, autenticación y análisis de datos.
