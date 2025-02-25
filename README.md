@@ -161,20 +161,21 @@ Script para análisis de imágenes que:
 **Descripción**:  
 Hosting de proyectos frontend estáticos:  
 - Demostraciones técnicas  
-- Portafolio básico  
+- Portafolio básico
+--- 
 
 ## 📚 Aprendiendo Actualmente
 - **Python**: Profundizando en el desarrollo web backend con Python.
 - **Go**: Profundizando en el desarrollo web backend con Go.
 - **Machine Learning**: Explorando fundamentos y aplicaciones de machine learning.
-
+---
 ## 🎖️ Certificaciones y medallas 
 - **Python** : [Python Basic - Hackerrank](https://www.hackerrank.com/certificates/d18b90a49c35])
 - **Python** : [Programming in Python - Coursera](https://coursera.org/share/cb511889ab04eea636be178a3769fe74)
 - **Golang** : [Curso Profesion de Golang - Código Facilito](https://codigofacilito.com/certificates/bd1edb07-380a-4665-980b-cb17d08fdd78)
 - **Golang** : [Golang Basic - Hackerrank](https://www.hackerrank.com/certificates/48a278a53848)
 - **Software Engineering** : [Introduction to Software Engineering - Coursera](https://coursera.org/share/a924b7b4ce7b8bc85fc08af056a8486c)
-
+---
 ## ☁️ Cloud Computing  
 
 **Google Cloud Skills Boost**  
@@ -196,14 +197,14 @@ Hosting de proyectos frontend estáticos:
 - **Google Cloud Computing Foundations: Infrastructure in Google Cloud - Español** *(Abr 21, 2024)*  
 - **Implement Load Balancing on Compute Engine** *(Abr 16, 2024)*  
 - **Google Cloud Computing Foundations: Cloud Computing Fundamentals - Español** *(Abr 13, 2024)*  
-
+---
 
 ## 📫 ¿Cómo contactarme?
 
 - **LinkedIn**: [Juan Sebastián Valencia Londoño](https://www.linkedin.com/in/juan-sebastian-valencia-londo%C3%B1o-b085522b5/)
 - **GitHub**: [anidroid1184](https://github.com/anidroid1184)
 - **Correo**: [valencialondonojuansebastian@gmail.com](mailto:valencialondonojuansebastian@gmail.com)
-
+---
 ## ⚡ Otras Cosas que Me Gustan
 
 - **Intereses**: 
@@ -214,7 +215,7 @@ Hosting de proyectos frontend estáticos:
   - Programar
   - Leer sobre nuevas tecnologías
   - Cinturón verde en Judo
-
+---
 ## 📊 Estadísticas de GitHub
 
 ![anidroid1184's Stats](https://github-readme-stats.vercel.app/api?username=anidroid1184&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
