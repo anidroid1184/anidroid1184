@@ -1,6 +1,6 @@
 # 👋 Hola, soy **Juan Sebastián Valencia Londoño**
 
-Soy estudiante de **6mo semestre de Ingeniería Electrónica** con una pasión especial por el **desarrollo web backend** e **IoT**. Tengo experiencia en **desarrollo en Python** y actualmente estoy ampliando mis habilidades aprendiendo **Go**. Además, he trabajado con **Arduino** y **ESP32**, así como en **MATLAB**.
+Soy estudiante de **VII semestre de Ingeniería Electrónica** con una pasión especial por el **desarrollo web backend** e **IoT**. Tengo experiencia en **desarrollo en Python** y actualmente estoy ampliando mis habilidades aprendiendo **Go**. Además, he trabajado con **Arduino** y **ESP32**, así como en **MATLAB**.
 
 A continuación, te muestro algunas de las herramientas y lenguajes que utilizo:
 
