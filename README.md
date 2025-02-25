@@ -263,7 +263,6 @@ Hosting de proyectos frontend estáticos:
     <ul>
         <li><a href="https://github.com/anidroid1184">GitHub</a></li>
         <li><a href="https://linkedin.com/in/juan-sebastian-valencia-londo%C3%B1o-b085522b5/">LinkedIn</a></li>
-        <li><a href="">Instagram</a></li>
         <li><a href="mailto:valencialondonojuansebastian@gmail.com">Correo</a></li>
     </ul>
 </div>
