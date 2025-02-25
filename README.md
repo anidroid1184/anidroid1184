@@ -54,7 +54,7 @@ A continuación, te muestro algunas de las herramientas y lenguajes que utilizo:
   - Django
 ---
 ## 🤖 Proyectos Iot 
-
+---
 ## [🚗 Vehículo Controlado por Bluetooth](https://github.com/anidroid1184/Robot-arduino)
 **Descripción**:  
 Desarrollé un vehículo robótico controlado por Bluetooth mediante Arduino. El proyecto incluyó:  
@@ -69,7 +69,7 @@ Desarrollé un vehículo robótico controlado por Bluetooth mediante Arduino. El
 - **Bluetooth** (HC-05)  
 - **Tinkercad** (Simulación)  
 - **Electrónica embebida**  
-
+---
 
 ## [🌡️ Sistema de Control de Temperatura con PID](https://github.com/anidroid1184/control-temperatura-PID)
 **Descripción**:  
@@ -85,8 +85,9 @@ Desarrollé un sistema de control automático de temperatura utilizando un algor
 - **MAX6675** (Sensor de temperatura)  
 - **Electrónica de potencia** (Triac BTA16 + MOC3041)  
 - **uasyncio** (Multitarea asíncrona)  
-
+---
 ## 🌱 Proyectos Destacados - Desarrollo web
+---
 ### [🚪 Sistema de Asistencia - PYTHON](https://github.com/anidroid1184/attendance-system)  
 **Descripción**:  
 Sistema de registro y gestión de asistencia con:  
