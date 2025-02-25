@@ -63,8 +63,7 @@ Desarrollé un vehículo robótico controlado por Bluetooth mediante Arduino. El
 - Programación de lógica de control y comunicación inalámbrica.  
 - [Simulación en Tinkercad - ejemplo movimiento de motor DC](https://www.tinkercad.com/things/c5Q1B032xxT-movimiento-de-motor?sharecode=kDENReuVnlSH04fxo3v5DyVlPOuq4NdQt5SrpCWaUC8).  
 - [Simulación en Tinkercad - ejemplo movimiento de servo Motor](https://www.tinkercad.com/things/0y9w9Dw19Jk-tarea?sharecode=Nl0uP18N2c1fUmUOrGAGU9dj4rWMLSmgDxTkIHymlR4).
-
-  
+-  
 **Tecnologías**:  
 - **Arduino** (C++)  
 - **Bluetooth** (HC-05)  
@@ -72,7 +71,20 @@ Desarrollé un vehículo robótico controlado por Bluetooth mediante Arduino. El
 - **Electrónica embebida**  
 
 
+## [🌡️ Sistema de Control de Temperatura con PID](https://github.com/anidroid1184/control-temperatura-PID)
+**Descripción**:  
+Desarrollé un sistema de control automático de temperatura utilizando un algoritmo PID. El proyecto incluyó:  
+- Implementación de un controlador PID ajustable para regulación térmica precisa.  
+- Integración de un termopar MAX6675 (tipo K) para mediciones de hasta 1024°C.  
+- Interfaz de usuario con LCD 16x2 vía I2C y botones para ajustar el setpoint.  
+- Detección de cruce por cero para control eficiente de un triac/SSR.  
 
+**Tecnologías**:  
+- **MicroPython** (Raspberry Pi Pico/ESP32)  
+- **SPI/I2C** (Comunicación con periféricos)  
+- **MAX6675** (Sensor de temperatura)  
+- **Electrónica de potencia** (Triac BTA16 + MOC3041)  
+- **uasyncio** (Multitarea asíncrona)  
 
 ## 🌱 Proyectos Destacados - Desarrollo web
 
