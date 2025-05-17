@@ -31,6 +31,86 @@ A continuación, te muestro algunas de las herramientas y lenguajes que utilizo:
 [![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://www.netlify.com/)
 
 ---
+## 🌱 Proyectos Destacados - Desarrollo web
+---
+### [🚪 Sistema de Asistencia - PYTHON](https://github.com/anidroid1184/attendance-system)  
+**Descripción**:  
+Sistema de registro y gestión de asistencia con:  
+- Registro manual de usuarios  
+- Autenticación básica  
+- Visualización de registros históricos  
+- Exportación de datos a CSV  
+
+**Tecnologías**:  
+- Python  
+- Django (backend)  
+- PostgreSQL (base de datos)  
+
+---
+
+### [👥 Gestión de Usuarios de BD remota desde terminal - BD MySQL - GOLANG](https://github.com/anidroid1184/CRUD-SQL-with-golang))  
+**Descripción**:  
+Sistema básico para gestión de usuarios con:  
+- CRUD de usuarios  
+- Almacenamiento en memoria  
+- Interfaz de línea de comandos (CLI)
+- Conexión remota a BD externa
+
+**Tecnologías**:  
+- Golang  
+- MySQL
+
+---
+
+### [✅ Todo List Fullstack - PYTHON + REACT](https://github.com/anidroid1184/to-do-list-python)  
+**Descripción**:  
+Aplicación para gestión de tareas con:  
+- Creación y eliminación de tareas  
+- Almacenamiento local  
+- Interfaz web básica  
+
+**Tecnologías**:  
+| Capa         | Tecnologías              |
+|--------------|--------------------------|
+| **Backend**  | Python, Flask, SQLite    |
+| **Frontend** | React, CSS Modules       |
+
+---
+
+### [🛒 Ecommerce Service - GO + REACT](https://github.com/anidroid1184/Ecommerce-service)  
+**Descripción**:  
+Plataforma básica de ecommerce con:  
+- Catálogo de productos  
+- Carrito de compras simple  
+- Interfaz administrativa  
+
+**Tecnologías**:  
+- **Backend**: Go, Gin, GORM  
+- **Frontend**: React, TailwindCSS  
+
+---
+
+### [🎨 Identificador de Paleta de Colores - PYTHON](https://github.com/anidroid1184/Color-Palette-Identifier)  
+**Descripción**:  
+Script para análisis de imágenes que:  
+- Detecta colores principales  
+- Muestra histograma de colores  
+- Genera paleta básica  
+
+**Tecnologías**:  
+- Python  
+- Matplotlib (visualización)  
+
+---
+
+
+### [🌐 Netlify - Proyectos Web](https://app.netlify.com/teams/anidroid1184/overview)  
+**Descripción**:  
+Hosting de proyectos frontend estáticos:  
+- Demostraciones técnicas  
+- Portafolio básico
+--- 
+---
 
 ## 🛠 Habilidades
 
@@ -120,84 +200,7 @@ En este repositorio subo varios proyectos los cuales he desarrollado, entre ello
 
 ---
 
-## 🌱 Proyectos Destacados - Desarrollo web
----
-### [🚪 Sistema de Asistencia - PYTHON](https://github.com/anidroid1184/attendance-system)  
-**Descripción**:  
-Sistema de registro y gestión de asistencia con:  
-- Registro manual de usuarios  
-- Autenticación básica  
-- Visualización de registros históricos  
-- Exportación de datos a CSV  
 
-**Tecnologías**:  
-- Python  
-- Django (backend)  
-- PostgreSQL (base de datos)  
-
----
-
-### [👥 Gestión de Usuarios - GOLANG](https://github.com/anidroid1184/Golang-Proyecto-Gestion-Usuarios)  
-**Descripción**:  
-Sistema básico para gestión de usuarios con:  
-- CRUD de usuarios  
-- Almacenamiento en memoria  
-- Interfaz de línea de comandos (CLI)  
-
-**Tecnologías**:  
-- Golang  
-- Biblioteca estándar  
-
----
-
-### [✅ Todo List Fullstack - PYTHON + REACT](https://github.com/anidroid1184/to-do-list-python)  
-**Descripción**:  
-Aplicación para gestión de tareas con:  
-- Creación y eliminación de tareas  
-- Almacenamiento local  
-- Interfaz web básica  
-
-**Tecnologías**:  
-| Capa         | Tecnologías              |
-|--------------|--------------------------|
-| **Backend**  | Python, Flask, SQLite    |
-| **Frontend** | React, CSS Modules       |
-
----
-
-### [🛒 Ecommerce Service - GO + REACT](https://github.com/anidroid1184/Ecommerce-service)  
-**Descripción**:  
-Plataforma básica de ecommerce con:  
-- Catálogo de productos  
-- Carrito de compras simple  
-- Interfaz administrativa  
-
-**Tecnologías**:  
-- **Backend**: Go, Gin, GORM  
-- **Frontend**: React, TailwindCSS  
-
----
-
-### [🎨 Identificador de Paleta de Colores - PYTHON](https://github.com/anidroid1184/Color-Palette-Identifier)  
-**Descripción**:  
-Script para análisis de imágenes que:  
-- Detecta colores principales  
-- Muestra histograma de colores  
-- Genera paleta básica  
-
-**Tecnologías**:  
-- Python  
-- Matplotlib (visualización)  
-
----
-
-
-### [🌐 Netlify - Proyectos Web](https://app.netlify.com/teams/anidroid1184/overview)  
-**Descripción**:  
-Hosting de proyectos frontend estáticos:  
-- Demostraciones técnicas  
-- Portafolio básico
---- 
 
 ## 📚 Aprendiendo Actualmente
 - **Python**: Profundizando en el desarrollo web backend con Python.
