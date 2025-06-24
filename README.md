@@ -46,6 +46,22 @@ Sistema de registro y gestión de asistencia con:
 - Django (backend)  
 - PostgreSQL (base de datos)  
 
+
+---
+
+
+### [👥 Gestión de Usuarios de BD remota desde terminal - BD SQL - PYTHON](https://github.com/anidroid1184/CRUD-SQL-with-PYTHON)
+**Descripción**:  
+Sistema básico para gestión de usuarios con:  
+- CRUD de usuarios  
+- Almacenamiento en memoria  
+- Interfaz de línea de comandos (CLI)  
+- Conexión remota a BD externa  
+
+**Tecnologías**:  
+- Python  
+- SQLite
+
 ---
 
 ### [👥 Gestión de Usuarios de BD remota desde terminal - BD MySQL - GOLANG](https://github.com/anidroid1184/CRUD-SQL-with-golang))  
