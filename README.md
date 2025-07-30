@@ -127,28 +127,6 @@ Hosting de proyectos frontend estáticos:
 - Portafolio básico
 --- 
 ---
-
-## 🛠 Habilidades
-
-- **Lenguajes de Programación**: 
-  - Python
-  - Golang
-  - C++
-  - JavaScript
-  - HMTL5
-  - CSS3
-- **Desarrollo Web**: 
-  - Backend
-  - APIs RESTful
-- **IoT**: 
-  - Integración de dispositivos
-  - Protocolos de comunicación
-  - Arduino
-  - ESP32
-- **Herramientas y Tecnologías**: 
-  - Git
-  - Django
----
 ## 🤖 Proyectos Iot 
 ---
 ## [🚗 Vehículo Controlado por Bluetooth de forma manual y con ultrasonido de manera autonoma](https://github.com/anidroid1184/Robot-arduino)
@@ -252,7 +230,27 @@ En este repositorio subo varios proyectos los cuales he desarrollado, entre ello
 - **Implement Load Balancing on Compute Engine** *(Abr 16, 2024)*  
 - **Google Cloud Computing Foundations: Cloud Computing Fundamentals - Español** *(Abr 13, 2024)*  
 ---
+## 🛠 Habilidades
 
+- **Lenguajes de Programación**: 
+  - Python
+  - Golang
+  - C++
+  - JavaScript
+  - HMTL5
+  - CSS3
+- **Desarrollo Web**: 
+  - Backend
+  - APIs RESTful
+- **IoT**: 
+  - Integración de dispositivos
+  - Protocolos de comunicación
+  - Arduino
+  - ESP32
+- **Herramientas y Tecnologías**: 
+  - Git
+  - Django
+---
 ## 📫 ¿Cómo contactarme?
 
 - **LinkedIn**: [Juan Sebastián Valencia Londoño](https://www.linkedin.com/in/juan-sebastian-valencia-londo%C3%B1o-b085522b5/)
