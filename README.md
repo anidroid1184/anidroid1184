@@ -32,6 +32,29 @@ A continuación, te muestro algunas de las herramientas y lenguajes que utilizo:
 
 ---
 ## 🌱 Proyectos Destacados - Desarrollo web
+
+---
+###[📦 Proyecto Escaneo y Control de Guías Web](https://github.com/anidroid1184/proyecto-escaneo-guias-web) 
+**Descripción:**
+Sistema web para registrar, editar y controlar guías mediante escaneo de códigos o ingreso manual. Permite la gestión eficiente de paquetes y guías, con soporte para carga masiva desde Excel, exportación de registros y edición rápida desde cualquier dispositivo.
+
+**Características:**
+- Registro y edición de guías por escaneo o ingreso manual
+- Alta masiva desde archivos Excel
+- Exportación de registros a Excel
+- Filtros y búsqueda avanzada por estado, tracking o guía internacional
+- Interfaz responsive (Bootstrap 5)
+- Escaneo con cámara usando html5-qrcode
+
+**Tecnologías:**
+
+- Python
+- Flask (backend)
+- SQLite (por defecto, fácil migración a MySQL)
+- SQLAlchemy (ORM)
+- Bootstrap 5 (frontend)
+- html5-qrcode (escaneo desde navegador)
+
 ---
 ### [🚪 Sistema de Asistencia - PYTHON](https://github.com/anidroid1184/attendance-system)  
 **Descripción**:  
