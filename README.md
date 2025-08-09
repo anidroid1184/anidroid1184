@@ -1,6 +1,6 @@
 # 👋 Hola, soy **Juan Sebastián Valencia Londoño**
 
-Soy estudiante de **VII semestre de Ingeniería Electrónica** con una pasión especial por el **desarrollo web backend** e **IoT**. Tengo experiencia en **desarrollo en Python** y actualmente estoy ampliando mis habilidades aprendiendo **Go**. Además, he trabajado con **Arduino** y **ESP32**, así como en **MATLAB**.
+Soy estudiante de **VIII semestre de Ingeniería Electrónica** con una pasión especial por el **desarrollo web backend** e **IoT**. Tengo experiencia en **desarrollo en Python** y actualmente estoy ampliando mis habilidades aprendiendo **Go**. Además, he trabajado con **Arduino** y **ESP32**, así como en **MATLAB**.
 
 A continuación, te muestro algunas de las herramientas y lenguajes que utilizo:
 
@@ -34,7 +34,7 @@ A continuación, te muestro algunas de las herramientas y lenguajes que utilizo:
 ## 🌱 Proyectos Destacados - Desarrollo web
 
 ---
-###[📦 Proyecto Escaneo y Control de Guías Web](https://github.com/anidroid1184/proyecto-escaneo-guias-web) 
+### [📦 Proyecto Escaneo y Control de Guías Web](https://github.com/anidroid1184/proyecto-escaneo-guias-web) 
 **Descripción:**
 Sistema web para registrar, editar y controlar guías mediante escaneo de códigos o ingreso manual. Permite la gestión eficiente de paquetes y guías, con soporte para carga masiva desde Excel, exportación de registros y edición rápida desde cualquier dispositivo.
 
