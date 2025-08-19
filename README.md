@@ -1,12 +1,18 @@
 # 👋 Hola, soy **Juan Sebastián Valencia Londoño**
 
-Soy estudiante de **VIII semestre de Ingeniería Electrónica** con una pasión especial por el **desarrollo web backend** e **IoT**. Tengo experiencia en **desarrollo en Python** y actualmente estoy ampliando mis habilidades aprendiendo **Go**. Además, he trabajado con **Arduino** y **ESP32**, así como en **MATLAB**.
+Soy estudiante de **Ingeniería Electrónica (VIII semestre)** con una fuerte pasión por el **desarrollo backend** y el **Internet de las Cosas (IoT)**.  
 
-A continuación, te muestro algunas de las herramientas y lenguajes que utilizo:
+Cuento con **1 año de experiencia en Python/Django** y **8 meses en PHP/Laravel**, siendo este último uno de mis principales enfoques gracias a su potencia para construir aplicaciones web modernas y escalables.  
+
+Actualmente estoy ampliando mis habilidades con **Go**, y también tengo experiencia práctica con **Arduino**, **ESP32** y **MATLAB**, lo que me permite integrar software y hardware en proyectos innovadores.  
+
+---
 
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
+[![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/)
 [![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://golang.org/)
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/es/docs/Web/JavaScript)
