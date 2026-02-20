@@ -1,6 +1,6 @@
 # 👋 Hola, soy **Juan Sebastián Valencia Londoño**
 
-Soy estudiante de **Ingeniería Electrónica (VIII semestre)** con una fuerte pasión por el **desarrollo backend** y el **Internet de las Cosas (IoT)**.  
+Soy estudiante de **Ingeniería Electrónica (XI semestre)** con una fuerte pasión por el **desarrollo backend** y el **Internet de las Cosas (IoT)**.  
 
 Cuento con **1 año de experiencia en Python/FastAPI** y **8 meses en PHP/Laravel**, siendo este último uno de mis principales enfoques gracias a su potencia para construir aplicaciones web modernas y escalables.  
 
