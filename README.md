@@ -31,7 +31,7 @@ Módulo embebido autónomo para reproducción y gestión de audio mediante inter
 - **Stack:** C++, Microcontroladores, Protocolos Seriales.
 - **Ingeniería:** Implementación de algoritmos anti-rebote (*software debouncing*) para entradas físicas críticas y control síncrono de periféricos de almacenamiento.
 
-### 🌐 [Atmosnode - Plataforma IoT & Red de Sensores](https://github.com/anidroid1184)
+### 🌐 [Atmosnode - Plataforma IoT & Red de Sensores](https://github.com/anidroid1184/TG)
 Arquitectura e infraestructura distribuida para el monitoreo de variables climáticas en tiempo real.
 - **Stack:** FastAPI, Docker, Google Cloud, Red de Sensores.
 - **Ingeniería:** Orquestación y optimización de contenedores (compresión del 88% en imágenes de producción) para la ingesta paralela de datos provenientes de nodos embebidos remotos.
