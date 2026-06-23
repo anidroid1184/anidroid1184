@@ -2,6 +2,13 @@
 
 **Embedded Systems Engineer | Firmware Developer | IoT Architect**
 
+[![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)](https://github.com/anidroid1184)
+[![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)](https://github.com/anidroid1184)
+[![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)](https://github.com/anidroid1184)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/anidroid1184)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)](https://github.com/anidroid1184)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://github.com/anidroid1184)
+
 Ingeniero Electrónico en formación (9.° semestre) enfocado en el desarrollo de sistemas embebidos robustos, programación de microcontroladores y el diseño de arquitecturas Edge-to-Cloud. Conecto el mundo físico con infraestructuras en la nube escalables combinando bajo nivel con desarrollo backend de alta eficiencia (Go, Python).
 
 🎯 Especialidades: Firmware (C/C++, Rust), Sistemas de Control Digital, IoT Cloud Architecture, DevOps.
