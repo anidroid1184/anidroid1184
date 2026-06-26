@@ -9,74 +9,73 @@
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)](https://github.com/anidroid1184)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://github.com/anidroid1184)
 
-Ingeniero Electrónico en formación (9.° semestre) enfocado en el desarrollo de sistemas embebidos robustos, programación de microcontroladores y el diseño de arquitecturas Edge-to-Cloud. Conecto el mundo físico con infraestructuras en la nube escalables combinando bajo nivel con desarrollo backend de alta eficiencia (Go, Python).
+Electronic Engineering Student (9th Semester) specializing in robust embedded firmware engineering, microcontroller programming, and Edge-to-Cloud system design. I bridge physical world telemetry with scalable data infrastructures by combining low-level systems with highly optimized backend computing environments.
 
-🎯 Especialidades: Firmware (C/C++, Rust), Sistemas de Control Digital, IoT Cloud Architecture, DevOps.
+🎯 **Focus Areas:** Firmware Development (C/C++, Rust Core), Digital Control Systems, IoT Data Pipelines, DevOps Infrastructure.
 📍 Cartago, Colombia | 🌍 Remote  
 📧 valencialondonojuansebastian@gmail.com
 
 ---
 
-## 🚀 Stack Técnico
+## 🚀 Technical Stack
 
-**🎛️ Embebidos & Bajo Nivel:** C/C++ • MicroPython • Rust (Explorando) • ESP32 • Arduino • Registros & Interrupciones  
-**🔌 Hardware & Control:** Sistemas de Control Digital (PID) • Automatización • Protocolos de Comunicación (I2C, SPI, UART)  
-**🌐 IoT Cloud & Backend:** Go (Gin) • Python (FastAPI, Django) • REST APIs • Ingesta de Datos  
-**🛠️ DevOps & Infraestructura:** Docker • Google Cloud Platform • Terraform • PostgreSQL • Supabase  
-
----
-
-## 📚 Proyectos de Ingeniería Destacados
-
-### 🎛️ [Sistema de Control PID Térmico](https://github.com/anidroid1184/control-temperatura-PID)
-Diseño e implementación de un sistema de lazo cerrado para el control preciso de temperatura en un proceso térmico real.
-- **Stack:** MicroPython, ESP32, Arquitectura de control digital.
-- **Ingeniería:** Sintonización de constantes de control ($K_p$, $K_i$, $K_d$), filtrado de ruido en señales de sensores analógicos por software y manejo de actuadores de potencia mediante PWM e interrupciones.
-
-### 🔊 [Módulo Interactivo de Audio por Hardware](https://github.com/anidroid1184/modulo-interactivo-audio-dplayer)
-Módulo embebido autónomo para reproducción y gestión de audio mediante interfaces físicas industriales.
-- **Stack:** C++, Microcontroladores, Protocolos Seriales.
-- **Ingeniería:** Implementación de algoritmos anti-rebote (*software debouncing*) para entradas físicas críticas y control síncrono de periféricos de almacenamiento.
-
-### 🌐 [Atmosnode - Plataforma IoT & Red de Sensores](https://github.com/anidroid1184/TG)
-Arquitectura e infraestructura distribuida para el monitoreo de variables climáticas en tiempo real.
-- **Stack:** FastAPI, Docker, Google Cloud, Red de Sensores.
-- **Ingeniería:** Orquestación y optimización de contenedores (compresión del 88% en imágenes de producción) para la ingesta paralela de datos provenientes de nodos embebidos remotos.
+**🎛️ Embedded & Low-Level:** C/C++ • MicroPython • Core Rust (No-Std Exploration) • ESP32 • Registers & Microchip Interrupt Handling  
+**🔌 Hardware & Control Systems:** Closed-Loop Digital Control (PID) • Automation • Serial Busses & Communication Protocols (I2C, SPI, UART)  
+**🌐 Backend & IoT Cloud Infrastructure:** Go (Gin) • Python (FastAPI, Django) • RESTful & WebSockets Data Ingestion Pipelines  
+**🛠️ DevOps & Infrastructure Engineering:** Docker • Google Cloud Platform (GCP) • Terraform • PostgreSQL • Supabase  
 
 ---
 
-## 💼 Experiencia Clave
+## 📚 Featured Engineering Projects
 
-### Co-Fundador & Backend Engineer – **Rootwave Agency** (2025)
-Diseño de infraestructura de software y automatizaciones de sistemas eficientes.
-- Optimización de flujos de despliegura DevOps reduciendo contenedores de 1GB a 120MB en entornos cloud de producción.
-- Orquestación robusta de microservicios para procesamiento síncrono de datos.
+### 🎛️ [Closed-Loop Digital PID Thermal Control](https://github.com/anidroid1184/control-temperatura-PID)
+Design and deployment of a precise closed-loop control system for temperature regulation on real physical thermal hardware.
+- **Stack:** MicroPython, ESP32 MCU, Digital Control Architecture.
+- **Engineering Highlights:** In-software tuning of Proportional-Integral-Derivative (Kp, Ki, Kd) constants, algorithmic sensor noise filtering, and high-frequency hardware PWM actuator manipulation via external hardware interrupts.
 
-### Consultor Técnico & Desarrollador Freelance – **Workana** (4.63/5⭐)
-Despliegue de más de 10 soluciones integradas de software y hardware a nivel internacional.
-- Diseño de layouts de PCBs y programación de firmware para dispositivos IoT comerciales basados en arquitecturas microcontroladas.
-- Construcción de scripts complejos de automatización y procesamiento eficiente de datos.
+### 🌐 [Atmosnode - Distributed Environmental Sensor Network & IoT Platform](https://github.com/anidroid1184/TG)
+End-to-end distributed infrastructure architected for real-time climatic variable streaming and historical data visualization.
+- **Stack:** FastAPI, Docker, Google Cloud Platform (GCP), Sensor Networks.
+- **Engineering Highlights:** Orchestrated parallel microservice data ingestion pipelines. Optimized production Docker images achieving an **88% container size reduction** to run efficiently under resource-constrained edge systems.
+
+### 🔊 [Standalone Hardware Interactive Audio Engine](https://github.com/anidroid1184/modulo-interactivo-audio-dplayer)
+Autonomous industrial embedded module designed for real-time audio playback control via physical operator interfaces.
+- **Stack:** C++, Bare-Metal MCUs, Serial Communication Bus Protocols.
+- **Engineering Highlights:** Developed high-reliability software debouncing algorithms for critical manual input lines and implemented synchronous peripheral storage query management.
 
 ---
 
-## 🏆 Certificaciones Destacadas
+## 💼 Core Professional Experience
 
-**Cloud & Infraestructura IoT**
+### Co-Founder & Systems Engineer – **Rootwave Agency** (2025)
+Architected software infrastructure and automated technical pipeline environments.
+- Optimized multi-tenant cloud configurations via DevOps automation, shrinking Docker images from 1GB down to 120MB for production networks.
+- Configured stable real-time web-service instances for distributed, low-latency telemetry data streaming.
+
+### Technical Consultant & Freelance Developer – **Workana** (4.63/5⭐ rating)
+Deployed over 10 embedded solutions, automation scripts, and custom software pipelines for global clients.
+- Collaborated on prototype schematic validation, layout consulting, and custom firmware logic compilation for commercial microcontrolled IoT platforms.
+- Constructed high-efficiency data extraction and automated data infrastructure synchronization programs.
+
+---
+
+## 🏆 Key Certifications
+
+**Cloud & IoT Infrastructure**
 - Google Cloud Computing Foundations (Google Cloud)
-- Terraform on Google Cloud (HashiCorp / Cloud)
+- Terraform on Google Cloud (HashiCorp)
 
-**Ingeniería de Software & Computación Numérica**
+**Software Architecture & Numerical Computing**
 - Machine Learning Onramp (MathWorks / MATLAB)
-- FastAPI Architecture & Meta Backend Development
+- Advanced FastAPI Design & Enterprise Meta-Backend Systems
 
 ---
 
-## 📞 Conecta conmigo
+## 📞 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/juan-sebastian-valencia-londono-b085522b5/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/anidroid1184)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:valencialondonojuansebastian@gmail.com)
 
 ---
-
-**Estudiante de Ingeniería Electrónica (9° semestre) | Desarrollando sistemas en la intersección del Hardware y Software**
+*Building hardware-software bridges at the intersection of Silicon and Scalable Systems.*
