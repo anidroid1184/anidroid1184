@@ -28,6 +28,11 @@ Electronic Engineering Student (9th Semester) specializing in robust embedded fi
 
 ## 📚 Featured Engineering Projects
 
+### 🎛️ [Embedded Systems & Firmware Foundations: Arduino Ecosystem](https://github.com/anidroid1184/proyectos-arduino)
+A structured, 22-module repository tracking my engineering journey through raw microcontrolled architecture, peripheral integration, and hardware-software constraints.
+- **Stack:** C/C++, ATmega328P, Hardware Abstraction, Communication Protocols.
+- **Engineering Highlights:** Implementation of digital input polling, analog-to-digital conversions (ADC), multiplexed outputs, dynamic PWM duty-cycle modulation, and asynchronous UART serial stream parsing on bare-metal silicon.
+
 ### 🎛️ [Closed-Loop Digital PID Thermal Control](https://github.com/anidroid1184/control-temperatura-PID)
 Design and deployment of a precise closed-loop control system for temperature regulation on real physical thermal hardware.
 - **Stack:** MicroPython, ESP32 MCU, Digital Control Architecture.
